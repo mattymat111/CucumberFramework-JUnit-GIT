@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Search for a Product both in home and Offers page #1
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.719 s - in Search for a Product both in home and Offers page #1
