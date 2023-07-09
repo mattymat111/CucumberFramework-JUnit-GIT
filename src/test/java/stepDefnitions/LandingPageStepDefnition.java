@@ -54,6 +54,8 @@ public class LandingPageStepDefnition {
 			System.out.println("ADDED BY B");
 			System.out.println("ADDED STUFF TO DEVELOP BRANCH");
 			System.out.println("ADDED SOME MORE STUFF TO DEVELOP BRANCH");
+			System.out.println("ADDED SOME MORE STUFF TO DEVELOP BRANCH");
+			System.out.println("ADDED SOME MORE STUFF TO DEVELOP BRANCH FROM GIT");
 			System.out.println("****GIT STUFF***");
 		}
 
