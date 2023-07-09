@@ -48,6 +48,7 @@ public class LandingPageStepDefnition {
 		System.out.println("\n"+testContextSetup.prodNameHomePage + " is extracted from the Home page.");
 		for (int i = 1; i < 3; i++) {
 			landingPage.doProdIncrement();
+			System.out.println("POST GIT 1");
 		}
 
 		landingPage.addToCartBtn();
